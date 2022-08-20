@@ -12,16 +12,16 @@ Courses:
 * [OTUS Linux. 2021. Control.](https://github.com/BorisPlus/otus_linux_control)
 
 Some my own researches:
-* [Dialogs Telegram Bot] (https://github.com/BorisPlus/dialogs_bot) 
-* [Auto screenshot maker] (https://github.com/BorisPlus/scr33nsh0t) 
+* [Dialogs Telegram Bot](https://github.com/BorisPlus/dialogs_bot) 
+* [Auto screenshot maker](https://github.com/BorisPlus/scr33nsh0t) 
 * [Get IP addresses by Geo](https://github.com/BorisPlus/4it.me) 
 * [Pritunl - VPN on VPS by one Ansible-click](https://github.com/BorisPlus/ansible_pritunl) 
-* [Sphinx + PG] (https://github.com/BorisPlus/sphinx_and_postgres) 
+* [Sphinx + PG](https://github.com/BorisPlus/sphinx_and_postgres) 
 * [Map Service with MongoDB](https://github.com/BorisPlus/mongodb_geo) 
-* [Neo4j research] (https://github.com/BorisPlus/neo4j_example) 
-* [NightGlow Lampyre] (https://github.com/BorisPlus/night_glow) 
+* [Neo4j research](https://github.com/BorisPlus/neo4j_example) 
+* [NightGlow Lampyre](https://github.com/BorisPlus/night_glow) 
 * [BugReport Service](https://github.com/BorisPlus/BugReport) 
-* [Raspberry 3.14159265359] (https://github.com/BorisPlus/3.14159265359) 
-* [WSGI Framework] (https://github.com/BorisPlus/dummy_wsgi_framework) 
+* [Raspberry 3.14159265359](https://github.com/BorisPlus/3.14159265359) 
+* [WSGI Framework](https://github.com/BorisPlus/dummy_wsgi_framework) 
 
 __With best regards__
