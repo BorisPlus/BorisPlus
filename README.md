@@ -23,5 +23,7 @@ Some my own researches:
 * [BugReport Service](https://github.com/BorisPlus/BugReport) 
 * [Raspberry 3.14159265359](https://github.com/BorisPlus/3.14159265359) 
 * [WSGI Framework](https://github.com/BorisPlus/dummy_wsgi_framework) 
+* WebSocket in Django via [Middleware](https://github.com/BorisPlus/django_websocket_middleware) or [Channel](https://github.com/BorisPlus/django_websocket_channels)
+
 
 __With best regards__
