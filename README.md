@@ -16,7 +16,7 @@ Some my own researches:
 * [Auto screenshot maker](https://github.com/BorisPlus/scr33nsh0t) 
 * [Get IP addresses by Geo](https://github.com/BorisPlus/4it.me) 
 * [Pritunl - VPN on VPS by one Ansible-click](https://github.com/BorisPlus/ansible_pritunl) 
-* [Sphinx + PG](https://github.com/BorisPlus/sphinx_and_postgres) 
+* [Sphinx + PG (plain text or Jsonb-field variant)](https://github.com/BorisPlus/sphinx_and_postgres) 
 * [Map Service with MongoDB](https://github.com/BorisPlus/mongodb_geo) 
 * [Neo4j research](https://github.com/BorisPlus/neo4j_example) 
 * [NightGlow Lampyre](https://github.com/BorisPlus/night_glow) 
