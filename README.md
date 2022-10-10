@@ -1,9 +1,9 @@
 ### Hello, friends
 
 
-<TABLE><TR>
-  <TD> <B>I'm</B>:<br>+ developer,<br>+ software engineer and<br>+ a bit of a dreamer.<br>I <B>like</B>:<br>+ technologies,<br>+ investigations and<br>+ their interpenetrations.</TD>
-  <TD> <IMG SRC="https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg" </TD>
+<TABLE border=0><TR border=0>
+  <TD border=0> <B>I'm</B>:<br>+ developer,<br>+ software engineer and<br>+ a bit of a dreamer.<br>I <B>like</B>:<br>+ technologies,<br>+ investigations and<br>+ their interpenetrations.</TD>
+  <TD border=0> <IMG SRC="https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg" </TD>
 </TR><TABLE>
 
 Courses:
