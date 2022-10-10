@@ -1,7 +1,7 @@
 ### Hello, friends
 
 
-|---|---|
+|   |   |
 | I'm a developer, software engineer and a bit of a dreamer.<br>I like technologies, investigations and their interpenetrations. | ![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg) |
 
 
