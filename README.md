@@ -3,7 +3,7 @@
 
 <TABLE style="border:none;"><TR  style="border:none;">
   <TD style="border:none;"> <B>I'm</B>:<br>+ developer,<br>+ software engineer and<br>+ a bit of a dreamer.<br>I <B>like</B>:<br>+ technologies,<br>+ investigations and<br>+ their interpenetrations.</TD>
-  <TD style="border:none;"> <IMG SRC="https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg" </TD>
+  <TD style="border:none;"> <IMG SRC="https://github.com/BorisPlus/SVG/blob/5521ce02a1c28f5e4666f4e754aeb49de98fe171/INSTRUMENTS/lutna.svg" </TD>
 </TR><TABLE>
 
 Courses:
