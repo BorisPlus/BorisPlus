@@ -1,15 +1,15 @@
 ### Hello, friends
 
-I'm a developer, software engineer and a bit of a dreamer.
 
-|   |   |
+
 |---|---|
-| col 1 is | ![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg) |
+| I'm a developer, software engineer and a bit of a dreamer. 
+I like technologies, investigations and their interpenetrations.| ![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg) |
 
 
 
 
-I like technologies, investigations and their interpenetrations.
+
 
 Courses:
 * [OTUS Web-Python. 2019.](https://github.com/BorisPlus/OTUS_web_python_2019) 
