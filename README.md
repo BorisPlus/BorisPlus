@@ -1,8 +1,10 @@
 ### Hello, friends
 
 I'm a developer, software engineer and a bit of a dreamer.
-|----------|------:|
-| col 1 is |  ![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg) |
+
+|   |   |
+|---|---|
+| col 1 is | ![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg) |
 
 
 
