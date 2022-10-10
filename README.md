@@ -2,7 +2,8 @@
 
 I'm a developer, software engineer and a bit of a dreamer.
 
-![GitHub](https://github.com/BorisPlus//gothical/git.svg?sanitize=true)
+![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg)
+
 
 I like technologies, investigations and their interpenetrations.
 
