@@ -1,17 +1,23 @@
 ### Hello, friends
 
 I'm a developer, software engineer and a bit of a dreamer.
+<div style="text-align: center; display: grid; grid-template-columns: 1fr 1fr;">
+  <div>parent
 
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text.
+```html
+<component>content</component>
+`` `
+
   </div>
-  <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
-  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  <div>
+child
+
+```html
+<slot>fallback content</slot>
+`` `
+
   </div>
 </div>
-
 
 ![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg)
 
