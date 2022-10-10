@@ -3,9 +3,9 @@
 I'm a developer, software engineer and a bit of a dreamer.
 
 <table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+ <tr border="0">
+    <td border="0"><b style="font-size:30px">Title</b></td>
+    <td border="0"><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
