@@ -3,6 +3,7 @@
 
 <TABLE><TR>
   <TD> 
+    
     I'm a: 
     * developer, 
     * software engineer and 
@@ -11,8 +12,9 @@
     * technologies,
     * investigations and
     * their interpenetrations.
+    
   </TD>
-  <TD> ![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg)</TD>
+  <TD> ![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg) </TD>
 </TR><TABLE>
 
 Courses:
