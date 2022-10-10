@@ -6,7 +6,7 @@ I'm a developer, software engineer and a bit of a dreamer.
 
 ```html
 <component>content</component>
-`` `
+```
 
   </div>
   <div>
@@ -14,7 +14,7 @@ child
 
 ```html
 <slot>fallback content</slot>
-`` `
+```
 
   </div>
 </div>
