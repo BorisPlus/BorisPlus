@@ -2,18 +2,7 @@
 
 
 <TABLE><TR>
-  <TD> 
-    
-    I'm a: 
-    * developer, 
-    * software engineer and 
-    * a bit of a dreamer.<br>
-    I like: 
-    * technologies,
-    * investigations and
-    * their interpenetrations.
-    
-  </TD>
+  <TD> I'm a:<br>* developer,<br>* software engineer and<br>* a bit of a dreamer.<br>I like:<br>* technologies,<br>* investigations and<br>* their interpenetrations.</TD>
   <TD> ![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg) </TD>
 </TR><TABLE>
 
