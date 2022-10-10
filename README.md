@@ -1,25 +1,10 @@
 ### Hello, friends
 
 I'm a developer, software engineer and a bit of a dreamer.
-<div style="text-align: center; display: grid; grid-template-columns: 1fr 1fr;">
-  <div>parent
+|----------|------:|
+| col 1 is |  ![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg) |
 
-```html
-<component>content</component>
-```
 
-  </div>
-  <div>
-child
-
-```html
-<slot>fallback content</slot>
-```
-
-  </div>
-</div>
-
-![GitHub](https://raw.githubusercontent.com/BorisPlus/SVG/master/gothical/git.svg)
 
 
 I like technologies, investigations and their interpenetrations.
