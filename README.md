@@ -27,6 +27,7 @@ Some my own researches:
 * [Pritunl - VPN on VPS by one Ansible-click](https://github.com/BorisPlus/ansible_pritunl) 
 * [Sphinx + PG (plain text or Jsonb-field variant)](https://github.com/BorisPlus/sphinx_and_postgres) 
 * [Map Service with MongoDB](https://github.com/BorisPlus/mongodb_geo) 
+* [Map Service presentation on HABR](https://habr.com/ru/articles/550294/)  
 * [Neo4j research](https://github.com/BorisPlus/neo4j_example) 
 * [NightGlow Lampyre](https://github.com/BorisPlus/night_glow) 
 * [BugReport Service](https://github.com/BorisPlus/BugReport) 
