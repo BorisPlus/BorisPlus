@@ -8,6 +8,7 @@
 
 <TABLE style="border:none;"><TR  style="border:none;">
   <TD style="border:none;">
+    
 Courses:
 * [OTUS Web-Python. 2019.](https://github.com/BorisPlus/OTUS_web_python_2019) 
 * [OTUS NoSQL. 2020.](https://github.com/BorisPlus/otus_nosql_2020)
@@ -15,8 +16,10 @@ Courses:
 * [OTUS Linux. 2021.](https://github.com/BorisPlus/otus_linux)
 * [OTUS Linux. 2021. Control.](https://github.com/BorisPlus/otus_linux_control)
 * [OTUS Golang. 2023.03.](https://github.com/BorisPlus/OTUS-Go-2023-03)
+    
 </TD>
 <TD style="border:none;"> 
+  
 Some my own researches:
 * [Dialogs Telegram Bot](https://github.com/BorisPlus/dialogs_bot) 
 * [Auto screenshot maker](https://github.com/BorisPlus/scr33nsh0t) 
@@ -30,6 +33,7 @@ Some my own researches:
 * [Raspberry 3.14159265359](https://github.com/BorisPlus/3.14159265359) 
 * [WSGI Framework](https://github.com/BorisPlus/dummy_wsgi_framework) 
 * WebSocket in Django via [Middleware](https://github.com/BorisPlus/django_websocket_middleware) or [Channel](https://github.com/BorisPlus/django_websocket_channels)
+  
  </TD>
 </TR><TABLE>
 
