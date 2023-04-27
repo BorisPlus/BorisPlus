@@ -21,6 +21,7 @@ Courses:
 <TD style="border:none;"> 
   
 Some my own researches:
+* [Golang. Заметки](https://github.com/BorisPlus/golang_notes) 
 * [Dialogs Telegram Bot](https://github.com/BorisPlus/dialogs_bot) 
 * [Auto screenshot maker](https://github.com/BorisPlus/scr33nsh0t) 
 * [Get IP addresses by Geo](https://github.com/BorisPlus/4it.me) 
