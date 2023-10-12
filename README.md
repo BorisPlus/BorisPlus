@@ -2,11 +2,7 @@
 
 
 <TABLE style="border:none;"><TR  style="border:none;">
-  <TD style="border:none;"> <B>I'm</B>:<br>+ developer,<br>+ software engineer and<br>+ a bit of a dreamer.<br>I <B>like</B>:<br>+ technologies,<br>+ investigations and<br>+ their interpenetrations.</TD>
-  <TD style="border:none;"> <IMG SRC="https://github.com/BorisPlus/SVG/blob/5521ce02a1c28f5e4666f4e754aeb49de98fe171/INSTRUMENTS/lutna.svg" </TD>
-</TR><TABLE>
-
-<TABLE style="border:none;"><TR  style="border:none;">
+  <TD style="border:none;"> <B>I'm</B>:<br>+ developer,<br>+ software engineer and<br>+ a bit of a dreamer.<br>I <B>like</B>:<br>+ technologies,<br>+ investigations and<br>+ their interpenetrations. <IMG SRC="https://github.com/BorisPlus/SVG/blob/5521ce02a1c28f5e4666f4e754aeb49de98fe171/INSTRUMENTS/lutna.svg" </TD>
   <TD style="border:none;">
     
 Courses:
@@ -16,6 +12,7 @@ Courses:
 * [OTUS Linux. 2021.](https://github.com/BorisPlus/otus_linux)
 * [OTUS Linux. 2021. Control.](https://github.com/BorisPlus/otus_linux_control)
 * [OTUS Golang. 2023.03.](https://github.com/BorisPlus/OTUS-Go-2023-03)
+* [OTUS Golang. 2023.03. Control.](https://github.com/BorisPlus/image-preview-service)
     
 </TD>
 <TD style="border:none;"> 
