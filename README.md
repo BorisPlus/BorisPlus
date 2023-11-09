@@ -32,6 +32,7 @@ Some my own researches:
 * [Raspberry 3.14159265359](https://github.com/BorisPlus/3.14159265359) 
 * [WSGI Framework](https://github.com/BorisPlus/dummy_wsgi_framework) 
 * WebSocket in Django via [Middleware](https://github.com/BorisPlus/django_websocket_middleware) or [Channel](https://github.com/BorisPlus/django_websocket_channels)
+* [Двухфакторная аутентификация](https://github.com/BorisPlus/2fa)
   
  </TD>
 </TR><TABLE>
